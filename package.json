@@ -1,0 +1,32 @@
+{
+  "name": "smartadmin",
+  "version": "1.0.0",
+  "description": "Simple and intuitive administrative panel project.",
+  "main": "index.html",
+  "scripts": {
+    "test": "none"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ricardoamb/smartadmin.git"
+  },
+  "keywords": [
+    "admin",
+    "panel",
+    "dashboard",
+    "sass",
+    "npm",
+    "javascript",
+    "css",
+    "static"
+  ],
+  "author": "Ricardo Amb",
+  "license": "SEE LICENSE IN FILE",
+  "bugs": {
+    "url": "https://github.com/ricardoamb/smartadmin/issues"
+  },
+  "homepage": "https://github.com/ricardoamb/smartadmin#readme",
+  "devDependencies": {
+    "animejs": "^3.1.0"
+  }
+}
